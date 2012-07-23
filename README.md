@@ -23,7 +23,7 @@ Start application:
 
     $ bundle exec rails s
 
-Go to `http://localhost:3000/` in your browser.
+Go to `http://localhost:3000/tasks` in your browser.
 
 ### Requirements
 

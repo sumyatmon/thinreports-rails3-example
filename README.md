@@ -30,6 +30,7 @@ Go to `http://localhost:3000/tasks` in your browser.
 * Ruby 1.9.2+
 * Rails 3.2+
 * ThinReports 0.7.5+
+* Bundler
 
 ## Author
 
